@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Header from "@/app/components/Footer";
-import Footer from "@/app/components/Header";
+import Header from "@/app/Components/Header";
+import Footer from "@/app/Components/Footer";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import {Heebo, Inter} from "next/font/google";
 
